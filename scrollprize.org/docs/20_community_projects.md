@@ -83,6 +83,9 @@ For state-of-the-art updates join our [Discord server](https://discord.com/invit
 
 ### 🛠️ Tools
 
+**[Fisherman's Net Volume Warping](https://github.com/prolificbrain/fishermans-net-vesuvius)** - Physics-based scroll deformation correction that treats fiber predictions as "threads to pull" for natural unwrapping. Includes personal introduction video by creator. Proven on real Vesuvius data with 3M+ fiber points detected and 40K+ voxels deformed.
+
+
 - [Fast Segment Rendering](https://github.com/schillij95/ThaumatoAnakalyptor/blob/main/ThaumatoAnakalyptor/sheet_to_mesh.py) by Julian Schilliger. Fast rendering of segments with GPU acceleration. Capable of saving the surface volume to multiple file formats.
 
     - [CPU rendering](https://github.com/schillij95/ThaumatoAnakalyptor/commit/bcd382a0ef59b2a8566ec62a474479ea9d1bb8c2) by Julian Schilliger and Giorgio Angelotti
